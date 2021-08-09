@@ -1,0 +1,6 @@
+{
+    "name": "indrawijaya/phpcomposerlibrary",
+    "description": "Belajar PHP composer Library Hello",
+    "type": "library",
+    "require": {}
+}
